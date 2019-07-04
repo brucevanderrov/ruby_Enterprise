@@ -6,7 +6,7 @@ Powerful Software
 
 ### Welcome to the repository
 
-Feel free to access [APP OVERVIEW](https://enterprisemileva.herokuapp.com/).
+Feel free to access [APP OVERVIEW](https://enterprisemileva.herokuapp.com/invoices).
 
 >  ##  Lorem ipsum dolor
 >
